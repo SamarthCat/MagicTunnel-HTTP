@@ -1,0 +1,16 @@
+{
+  "name": "MagicTunnel-HTTP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "magictunnel-http-server.js",
+  "scripts": {
+    "start": "node magictunnel-http-server.js"
+  },
+  "author": "SamarthCat",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "ws": "^8.4.2"
+  }
+}
